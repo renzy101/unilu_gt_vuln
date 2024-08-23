@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\controllers\\vulnerabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\controllers\\vulnerabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\gtvulnprioritizer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\gtvulnprioritizer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\vulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\vulnerabilitycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\vulnerabilitycollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\vulnerabilityprioritizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\vulnerabilityprioritizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\vulnerabilitysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\vulnerabilitysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\ivulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\ivulnerability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\msdefender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\msdefender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\openaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\openaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\rapid7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\rapid7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\wwwroot\\sample-data\\vulnerability.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D5A058-B355-4338-806E-02F157DC5FAF}|..\\GTDashboard\\GTDashboard\\GTDashboard.csproj|c:\\users\\user\\source\\repos\\gtdashboard\\gtdashboard\\data\\backupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|c:\\users\\user\\source\\repos\\gtvulnprioritizer\\gtvulnprioritizer\\gtvulnprioritizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E27BF654-90C9-44A1-8762-F6846F4CF90A}|GTVulnPrioritizer\\GTVulnPrioritizer.csproj|solutionrelative:gtvulnprioritizer\\gtvulnprioritizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MSDefender.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\MSDefender.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\MSDefender.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\MSDefender.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\MSDefender.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:09:20.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVulnerability.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\IVulnerability.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\IVulnerability.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\IVulnerability.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\IVulnerability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:13:47.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GTVulnPrioritizer.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\GTVulnPrioritizer.http",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\GTVulnPrioritizer.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\GTVulnPrioritizer.http",
+              "RelativeToolTip": "GTVulnPrioritizer\\GTVulnPrioritizer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-04T15:25:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VulnerabilitySource.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilitySource.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\VulnerabilitySource.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilitySource.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\VulnerabilitySource.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:31:42.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VulnerabilityPrioritizer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilityPrioritizer.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\VulnerabilityPrioritizer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilityPrioritizer.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\VulnerabilityPrioritizer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:18:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VulnerabilityCollector.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilityCollector.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\VulnerabilityCollector.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\VulnerabilityCollector.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\VulnerabilityCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:29:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vulnerability.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Vulnerability.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\Vulnerability.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Vulnerability.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\Vulnerability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:26:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Startup.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\Startup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Startup.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:15:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VulnerabilityController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Controllers\\VulnerabilityController.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\Controllers\\VulnerabilityController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Controllers\\VulnerabilityController.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\Controllers\\VulnerabilityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:44:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OpenAIClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\OpenAIClient.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\OpenAIClient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\OpenAIClient.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\OpenAIClient.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAA9wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:53:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Program.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Program.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:53:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rapid7.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Rapid7.cs",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\Rapid7.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\Rapid7.cs",
+              "RelativeToolTip": "GTVulnPrioritizer\\Rapid7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:15:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\Program.cs",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:59:16.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\_Imports.razor",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:52:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\App.razor",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\App.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\App.razor",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:44:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vulnerability.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\wwwroot\\sample-data\\vulnerability.json",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\wwwroot\\sample-data\\vulnerability.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\wwwroot\\sample-data\\vulnerability.json",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\wwwroot\\sample-data\\vulnerability.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T09:58:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GTVulnPrioritizer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\GTVulnPrioritizer.csproj",
+              "RelativeDocumentMoniker": "GTVulnPrioritizer\\GTVulnPrioritizer.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTVulnPrioritizer\\GTVulnPrioritizer\\GTVulnPrioritizer.csproj",
+              "RelativeToolTip": "GTVulnPrioritizer\\GTVulnPrioritizer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T08:48:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BackupData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\Data\\BackupData.cs",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\Data\\BackupData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\Data\\BackupData.cs",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\Data\\BackupData.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:58:28.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "favicon.png",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "..\\GTDashboard\\GTDashboard\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GTDashboard\\GTDashboard\\wwwroot\\favicon.png",
+              "RelativeToolTip": "..\\GTDashboard\\GTDashboard\\wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-15T09:58:45.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

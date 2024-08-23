@@ -1,0 +1,7 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@GTVulnPrioritizer_HostAddress = http://localhost:52025
+
+GET {{GTVulnPrioritizer_HostAddress}}/vulnerability/
+Accept: application/json
+
+###
